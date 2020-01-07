@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  background-color: blueviolet
+}
+
+h1 {
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   color: rgb(201, 231, 201);
+}
+
+p {
+ 
+}
+
+ul {
+  list-style-position: inside;
+
+}
+
+ol {
+  list-style-position: inside;
+}
